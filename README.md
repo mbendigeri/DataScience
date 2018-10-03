@@ -1,14 +1,14 @@
 # DataScience
 
-git clone https://github.com/mbendigeri/DataScience.git
-git status # Get the status
-git add <filename> # add a new file
-git commit -m "Comments here" # commit files
-git add . # add all files and folders
-git add -A
-git push #sync the changes to server
-git pull 
-git # shows all commands
+* git clone https://github.com/mbendigeri/DataScience.git
+* git status # Get the status
+* git add <filename> # add a new file
+* git commit -m "Comments here" # commit files
+* git add . # add all files and folders
+* git add -A
+* git push #sync the changes to server
+* git pull 
+* git # shows all commands
 
 1. Start with a sync i.e pull at the start of day
 2. After you have done the changes , use add .
